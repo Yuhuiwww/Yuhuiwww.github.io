@@ -1,0 +1,12 @@
+---
+title: "Improved meta-heuristics with Q-learning for solving distributed assembly permutation flowshop scheduling problems"
+collection: publications
+permalink: /publication/2023-07-Improved meta-heuristics with Q-learning for solving distributed assembly permutation flowshop scheduling problems
+excerpt: 'This study addresses a distributed assembly permutation flowshop scheduling problem.'
+date: 2023-07
+venue: 'Swarm and Evolutionary Computation'
+slidesurl: 'https://www.sciencedirect.com/science/article/abs/pii/S2210650223001086'
+citation: ''
+---
+
+This study addresses a distributed assembly [permutation](https://www.sciencedirect.com/topics/mathematics/permutation) [flowshop scheduling](https://www.sciencedirect.com/topics/computer-science/flowshop-scheduling) problem, which is of great significance in practical [manufacturing systems](https://www.sciencedirect.com/topics/engineering/gas-fuel-manufacture). We aim to sequence products and jobs, and assign jobs to the appropriate factory to minimize the total flowtime of products. First, a [mathematical model](https://www.sciencedirect.com/topics/mathematics/mathematical-modeling) is developed to describe the concerned problems. Then, four meta-heuristics, e.g., [artificial bee colony](https://www.sciencedirect.com/topics/computer-science/artificial-bee-colony), [particle swarm optimization](https://www.sciencedirect.com/topics/computer-science/particle-swarm-optimization), [genetic algorithm](https://www.sciencedirect.com/topics/engineering/genetic-algorithm), and Jaya algorithm, and their variants are proposed. Three initialization strategies are developed to generate high-quality initial solutions. Four [local search](https://www.sciencedirect.com/topics/mathematics/local-search) operators are designed to improve the performance of the algorithms. Q-learning is embedded to select the premium [local search](https://www.sciencedirect.com/topics/mathematics/local-search) strategy during iterations. Based on 81 large-scale benchmark instances, comprehensive numerical experiments are carried out to evaluate the effectiveness of the proposed algorithms. The experimental results show that the proposed Jaya with Q-learning-based local search has strong competitiveness, and it updates optimal solutions for 51 out of 81 benchmark instances.

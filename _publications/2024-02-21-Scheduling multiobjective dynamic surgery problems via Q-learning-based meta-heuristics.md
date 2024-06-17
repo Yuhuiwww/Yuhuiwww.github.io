@@ -5,7 +5,7 @@ permalink: /publication/2024-02-21-Scheduling multiobjective dynamic surgery pro
 excerpt: 'This work addresses multiobjective dynamic surgery scheduling problems with considering uncertain setup time and processing time.'
 date: 2024-02-21
 venue: 'IEEE'
-paperurl: 'http://yuhuiwww.github.io/files/Scheduling Multiobjective Dynamic Surgery Problems via Q-Learning-Based Meta-Heuristics.pdf'
+paperurl: 'https://ieeexplore.ieee.org/document/10443025'
 citation: ''
 ---
 
