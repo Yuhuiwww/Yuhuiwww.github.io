@@ -1,9 +1,9 @@
 ---
 title: "Improved meta-heuristics with Q-learning for solving distributed assembly permutation flowshop scheduling problems"
 collection: publications
-permalink: /publication/2023-07-Improved meta-heuristics with Q-learning for solving distributed assembly permutation flowshop scheduling problems
+permalink: /publication/2023-07-01-Improved meta-heuristics with Q-learning for solving distributed assembly permutation flowshop scheduling problems
 excerpt: 'This study addresses a distributed assembly permutation flowshop scheduling problem.'
-date: 2023-07
+date: 2023-07-01
 venue: 'Swarm and Evolutionary Computation'
 slidesurl: 'https://www.sciencedirect.com/science/article/abs/pii/S2210650223001086'
 citation: ''

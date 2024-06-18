@@ -1,9 +1,9 @@
 ---
 title: "Solving Heterogeneous USV Scheduling Problems by Problem-Specific Knowledge Based Meta-Heuristics with Q-Learning"
 collection: publications
-permalink: /publication/2024-Solving Heterogeneous USV Scheduling Problems by Problem-Specific Knowledge Based Meta-Heuristics with Q-Learning
+permalink: /publication/2024-01-01-Solving Heterogeneous USV Scheduling Problems by Problem-Specific Knowledge Based Meta-Heuristics with Q-Learning
 excerpt: 'This study focuses on the scheduling problem of heterogeneous unmanned surface vehicles (USVs) with obstacle avoidance pretreatment.'
-date: 2024
+date: 2024-01-01
 venue: 'Mathematics'
 paperurl: 'ttps://www.mdpi.com/2227-7390/12/2/339/pdf'
 citation: ''
