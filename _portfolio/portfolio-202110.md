@@ -1,6 +1,6 @@
 ---
 title: "澳門科學技術發展基金"
-excerpt: "基于学习的不确定再制造协同群智能调度及重调度."
+excerpt: "基于学习的不确定再制造协同群智能调度及重调度"
 collection: portfolio
 ---
 
